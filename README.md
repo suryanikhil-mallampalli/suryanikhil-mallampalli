@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Mallampalli</h1>
 <h3 align="center">A passionate computer science developer from India</h3>
-<iframe src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR">via GIPHY</a></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanikhil-mallampalli&label=Profile%20views&color=0e75b6&style=flat" alt="suryanikhil-mallampalli" /> </p>
