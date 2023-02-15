@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12HJEvo99g10XCiVaHOvlEPw4xhXQbY51/view?usp=sharing](https://drive.google.com/file/d/12HJEvo99g10XCiVaHOvlEPw4xhXQbY51/view?usp=sharing)
 
-- ⚡ Fun fact **I laugh very quietly**
+- ⚡ Fun fact:**I laugh very quietly**
 
 
 <h3 align="left">Connect with me:</h3>
