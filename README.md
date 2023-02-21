@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend development & Machine learning**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Full-stack & Machine learning projects**
 
 - 📝 I regularly write articles on [https://medium.com/@suryanikhil-mallampalli](https://medium.com/@suryanikhil-mallampalli)
 
