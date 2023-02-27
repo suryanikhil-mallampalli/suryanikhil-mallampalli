@@ -20,8 +20,6 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1l9C9HevNzkcKHR6d1xL0yMt3vc59MsrA/view?usp=sharing
 
-- ⚡ Fun fact:**I laugh very quietly**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
