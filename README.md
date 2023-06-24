@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **suryanikhil_mallampalli@srmap.edu.in || suryanikhil.m@gmail.com**
 
-- 📝 I regularly write articles on [https://medium.com/@suryanikhil-mallampalli](https://medium.com/@suryanikhil-mallampalli)
+- 📝 I write here 👉 [https://medium.com/@suryanikhil-mallampalli](https://medium.com/@suryanikhil-mallampalli)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
