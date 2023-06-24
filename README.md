@@ -6,20 +6,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryanikhil-mallampalli" alt="suryanikhil-mallampalli" /></a> </p> -->
 
-- 🔭 I’m currently working on **Developing a Blog website**
+- 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **Backend development & Machine learning**
+- 🌱 I’m currently learning **Web development || Machine learning**
 
-- 👯 I’m looking to collaborate on **Full-stack & Machine learning projects**
+- 📫 How to reach me **suryanikhil_mallampalli@srmap.edu.in || suryanikhil.m@gmail.com**
 
 - 📝 I regularly write articles on [https://medium.com/@suryanikhil-mallampalli](https://medium.com/@suryanikhil-mallampalli)
-
-- 💬 Ask me about **full-stack & Machine Learning**
-
-- 📫 How to reach me **suryanikhil_mallampalli@srmap.edu.in**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1l9C9HevNzkcKHR6d1xL0yMt3vc59MsrA/view?usp=sharing
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
