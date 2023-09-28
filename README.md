@@ -37,6 +37,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanikhil-mallampalli&show_icons=true&locale=en&layout=compact" alt="suryanikhil-mallampalli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryanikhil-mallampalli&show_icons=true&locale=en" alt="suryanikhil-mallampalli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanikhil-mallampalli&" alt="suryanikhil-mallampalli" /></p>
